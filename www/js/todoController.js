@@ -9,12 +9,12 @@ var TodoController = {
         TodoController.loadLocalData();
         //load todo list
         TodoController.refreshTodoList();
-        
+
 
 
     },
     loadLocalData: function () {
-        NativeStorage.getItem("todoData", (sucess) => { 
+        NativeStorage.getItem("todoData", (sucess) => {
             TodoController.todoArray = JSON.parse(sucess);
             console.log('native storage carregado com sucesso!: ' + sucess);
         }, (err) => {
@@ -36,7 +36,7 @@ var TodoController = {
             data: data,
             id: id
         }
-        
+
         TodoController.todoArray.push(todoData);
 
         if (!id) {
