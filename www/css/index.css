@@ -41,7 +41,6 @@ body {
     height:100%;
     margin:0px;
     padding:0px;
-    text-transform:uppercase;
     width:100%;
 }
 
@@ -77,13 +76,18 @@ h1 {
     padding:0px;
     text-align:center;
 }
-
+.content-block {
+    margin: 0 !important;
+}
+.content-block-inner{
+    position: absolute;
+}
 .event {
     border-radius:4px;
     -webkit-border-radius:4px;
     color:#FFFFFF;
     font-size:12px;
-    margin:0px 30px;
+    padding:2px 0px;
     padding:2px 0px;
 }
 
