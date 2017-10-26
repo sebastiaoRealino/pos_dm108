@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "452183884531",
+    "firebase_url": "https://dm108proj.firebaseio.com",
+    "project_id": "dm108proj",
+    "storage_bucket": "dm108proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452183884531:android:118dd1b847264173",
+        "android_client_info": {
+          "package_name": "com.dm108proj.inatel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452183884531-60puflu5tg6t7p92neegjq1pdve59s7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvTC0r970w2fRohSOHqx6LGOXZHFDGi1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452183884531:android:6953a0d4cdb2d418",
+        "android_client_info": {
+          "package_name": "org.bccrezende.planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452183884531-60puflu5tg6t7p92neegjq1pdve59s7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvTC0r970w2fRohSOHqx6LGOXZHFDGi1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
